@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: Andrew, Wilcox
+	Contact: contact@andrew-w.com
+	Twitter: @twitter_username
+	From: San Luis Obispo, California, U.S.A.
+
+/* THANKS */
+
+	HTML AngularJS Template: Brandon Himpfen
+	Twitter: @brandonhimpfen
+	From: Toronto, Ontario, Canada
+
+/* SITE */
+	Last update: 2014/02/19
+	Language: English / French
+	Doctype: HTML5
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop
